@@ -1,5 +1,6 @@
 mountpoints:
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -7,3 +8,6 @@ mountpoints:
 =======
 /: https://drive.google.com/drive/folders/1XKXRHXokaNcnKZOeLV611pXWB8exrMYO
 >>>>>>> edf2729 (Add mountpoints section to fstab.yaml)
+=======
+/: https://drive.google.com/drive/folders/126H-tU8KACAF7a8YOOD5E5hWm5Wbiwtz
+>>>>>>> 5917340 (Update root mountpoint URL in fstab.yaml)
